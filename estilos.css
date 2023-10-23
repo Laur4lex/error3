@@ -1,0 +1,45 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+    display: inline-block;
+    
+}
+div{
+    width: 600px;
+    max-width: 95%;
+    margin: 0 auto 0 0;
+}
+.portada {
+    width: 100%;
+    height: auto;
+}
+h1{
+    color: white;
+    background-color: black;
+}
+h3{
+    color: rgb(160, 142, 68);
+
+}
+h4{
+    color: rgb(240, 240, 240);
+
+}
+p{
+    color: rgb(178, 178, 178);
+}
+strong{
+    color: rgb(80, 86, 141);
+}
+li{
+    display:inline-block;
+    margin: 10px;
+    background-color: rgb(26, 26, 26);
+    padding: 10px;
+}
+nav a:hover{
+    display: inline-block;
+    color: rgb(126, 117, 13);
+}
